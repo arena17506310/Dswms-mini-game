@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\assets\\scripts\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|c:\\users\\dkfps\\desktop\\hs programming\\interpreter club\\daeseong women high school\\mini game\\daeseong women hs mini game\\assets\\scripts\\record\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\record\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\assets\\scripts\\startmenu\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\assets\\scripts\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\assets\\scripts\\startmenu\\returntomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu\\returntomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|c:\\users\\dkfps\\desktop\\hs programming\\interpreter club\\daeseong women high school\\mini game\\daeseong women hs mini game\\assets\\scripts\\gameover\\gameovermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\assets\\scripts\\gameover\\gameovermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover\\gameovermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|c:\\users\\dkfps\\desktop\\hs programming\\interpreter club\\daeseong women high school\\mini game\\daeseong women hs mini game\\assets\\scripts\\jelly\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\assets\\scripts\\jelly\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564D184E-37DD-1D84-CC8D-54CE38D9D7E2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jelly\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordManager.cs",
+              "DocumentMoniker": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\Assets\\Scripts\\Record\\RecordManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Record\\RecordManager.cs",
+              "ToolTip": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\Assets\\Scripts\\Record\\RecordManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Record\\RecordManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwDUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:08:30.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,10 +73,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver\\GameOverManagement.cs",
               "ToolTip": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\Assets\\Scripts\\GameOver\\GameOverManagement.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOver\\GameOverManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:22:59.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:22:59.024Z"
             },
             {
               "$type": "Document",
@@ -75,25 +87,11 @@
               "RelativeToolTip": "Assets\\Scripts\\StartMenu\\ReturnToMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T01:07:55.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T01:07:55.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RecordManager.cs",
-              "DocumentMoniker": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\Assets\\Scripts\\StartMenu\\RecordManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenu\\RecordManager.cs",
-              "ToolTip": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\Assets\\Scripts\\StartMenu\\RecordManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StartMenu\\RecordManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T00:54:41.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "StartMenu.cs",
               "DocumentMoniker": "C:\\Users\\dkfps\\Desktop\\Hs Programming\\Interpreter Club\\daeseong women high school\\Mini Game\\Daeseong women hs Mini Game\\Assets\\Scripts\\StartMenu\\StartMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenu\\StartMenu.cs",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Assets\\Scripts\\StartMenu\\StartMenu.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T16:52:24.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T16:52:24.098Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Jelly\\PlayerMovement.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAywB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T15:05:09.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T15:05:09.13Z"
             },
             {
               "$type": "Document",
@@ -127,7 +123,8 @@
               "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvzMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T08:28:13.638Z"
+              "WhenOpened": "2025-09-10T08:28:13.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,8 +136,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:21:01.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T17:21:01.482Z"
             },
             {
               "$type": "Document",
@@ -152,7 +148,8 @@
               "RelativeToolTip": "Assets\\Scripts\\GameOverDisplay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T15:30:34.056Z"
+              "WhenOpened": "2025-09-11T15:30:34.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -164,7 +161,8 @@
               "RelativeToolTip": "Assets\\Scripts\\GameOverManagement.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T15:32:31.943Z"
+              "WhenOpened": "2025-09-11T15:32:31.943Z",
+              "EditorCaption": ""
             }
           ]
         },

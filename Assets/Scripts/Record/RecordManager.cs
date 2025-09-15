@@ -1,8 +1,9 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using System.Linq;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class RecordManager : MonoBehaviour
 {
@@ -23,7 +24,7 @@ public class RecordManager : MonoBehaviour
 
         int recordCount = PlayerPrefs.GetInt("RecordCount", 0);
 
-        // ±â·Ï ¸®½ºÆ® ºÒ·¯¿À±â
+        // ê¸°ë¡ ë¦¬ìŠ¤íŠ¸ ë¶ˆëŸ¬ì˜¤ê¸°
         List<(string name, int score)> records = new List<(string, int)>();
 
         for (int i = 0; i < recordCount; i++)
@@ -34,14 +35,36 @@ public class RecordManager : MonoBehaviour
             records.Add((playerName, score));
         }
 
-        // Á¡¼ö ¼øÀ¸·Î ³»¸²Â÷¼ø Á¤·Ä
+        // ì ìˆ˜ ìˆœìœ¼ë¡œ ë‚´ë¦¼ì°¨ìˆœ ì •ë ¬
         var sortedRecords = records.OrderByDescending(r => r.score).ToList();
 
-        // UI Ãâ·Â
+        // UI ì¶œë ¥
         for (int i = 0; i < sortedRecords.Count; i++)
         {
             GameObject entry = Instantiate(recordTextPrefab, recordParent);
             entry.GetComponent<TextMeshProUGUI>().text = $"{i + 1}. {sortedRecords[i].name} - {sortedRecords[i].score}";
         }
     }
+
+    public void ClearRecords()
+    {
+        // ğŸ”¹ ë¨¼ì € ê¸°ë¡ ê°œìˆ˜ ê°€ì ¸ì˜¤ê¸°
+        int recordCount = PlayerPrefs.GetInt("RecordCount", 0);
+
+        // ğŸ”¹ ëª¨ë“  ê¸°ë¡ ì‚­ì œ
+        for (int i = 0; i < recordCount; i++)
+        {
+            PlayerPrefs.DeleteKey("PlayerName" + i);
+            PlayerPrefs.DeleteKey("Record_Score_" + i);
+        }
+
+        // ğŸ”¹ RecordCount ë„ ì‚­ì œ
+        PlayerPrefs.DeleteKey("RecordCount");
+
+        PlayerPrefs.Save();
+
+        LoadRecords(); // UI ê°±ì‹ 
+    }
+
+
 }
