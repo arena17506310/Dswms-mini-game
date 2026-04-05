@@ -5,14 +5,14 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody2D rb;
 
     [Header("이동 관련")]
-    public float moveSpeed = 5f;
+    public float moveSpeed = 10f;
 
 
 
     [Header("점프 관련")]
     public float baseJumpForce = 20f;   // 시작 점프력
-    public float jumpIncreaseStep = 2f; // 200 단위마다 증가량
-    public float maxJumpForce = 50f;    // 최대 점프력
+    public float jumpIncreaseStep = 10f; // 200 단위마다 증가량
+    public float maxJumpForce = 60f;    // 최대 점프력
     private float jumpForce;
 
 
